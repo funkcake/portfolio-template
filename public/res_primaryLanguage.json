@@ -15,9 +15,9 @@
         "startDate": "2021",
         "description": "The cap stone project of my boot camp express. The group I was apart of worked to create this beautiful app that can be adapted to be used at an animal shelter to help get dogs adopted. We utilized mongo DB for the database then used css to create the cards for each dog. Finally used javascript to populate each card will info about each pet. There is even a way to submit an application for a fee of $10.",
         "images": [
-          "images/portfolio/animal-shelter/p5.jpg",
-          "images/portfolio/animal-shelter/p3.jpg",
-          "images/portfolio/animal-shelter/p4.jpg"
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p3.jpg"
         ],
         "url": "https://still-plains-06700.herokuapp.com/",
         "technologies": [
@@ -40,9 +40,9 @@
         "startDate": "2021",
         "description": "Simple weather app that lets the user search by city for the weather in that city. Utilizing the free weather api and javascript to make a simple design.",
         "images": [
-          "images/portfolio/photography/p3.jpg",
-          "images/portfolio/photography/p4.jpg",
-          "images/portfolio/photography/p5.jpg"
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
         ],
         "url": "https://funkcake.github.io/Weather-App/",
         "technologies": [
