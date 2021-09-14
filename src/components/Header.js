@@ -38,14 +38,14 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+              <span className="iconify header-icon" data-icon="la:laptop" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">
                 {name}
               </h1>
-              <div className="title-container">
+              <h3 className="title-container" style={{ color: "white" }}>
                 <HeaderTitleTypeAnimation />
-              </div>
+              </h3>
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
@@ -65,7 +65,7 @@ class Header extends Component {
                       fontSize: 25,
                       textAlign: "end",
                       marginLeft: "20px",
-                      color: "#353239",
+                      color: "#313131",
                     }}
                   ></span>
                 }
@@ -80,7 +80,7 @@ class Header extends Component {
                       fontSize: 25,
                       textAlign: "end",
                       marginLeft: "10px",
-                      color: "#353239",
+                      color: "#313131",
                     }}
                   ></span>
                 }

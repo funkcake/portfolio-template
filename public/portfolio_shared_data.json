@@ -5,13 +5,13 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/funkcake",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/brian-casto-9416b3204/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
@@ -49,9 +49,19 @@
           "level": "65"
         },
         {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "60"
+        },
+        {
           "name": "MySql",
           "class": "devicon-mysql-plain",
-          "level": "60"
+          "level": "55"
+        },
+        {
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": "50"
         }
       ]
     }
