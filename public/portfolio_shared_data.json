@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.linkedin.com/in/brian-casto-9416b3204/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name":"resume",
+          "url":"https://docs.google.com/document/d/1K0cU8Lay0bVVNiygudAs8eqR_J9Coyb_s7htZrkRIb0/edit?usp=sharing",
+          "class":"far fa-file"
         }
       ],
       "image": "myProfile.jpg"
