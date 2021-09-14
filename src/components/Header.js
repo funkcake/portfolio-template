@@ -38,7 +38,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="lucide:binary" data-inline="false"></span>
+              <span className="iconify header-icon" data-icon="cil:mug-tea" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">
                 {name}
