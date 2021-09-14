@@ -61,7 +61,7 @@
         "startDate": "2021",
         "description": "The first App I built out of my boot camp. This can be used to quickly enter prices to find the total. The sleek design is meant to make the App easy to use on the users phone.",
         "images": [
-          "images/portfolio/adventure/p3.jpg"
+          "../../public/images/portfolio/adventure/p3.jpg"
         ],
         "url": "https://funkcake.github.io/Grocery-Calculator/",
         "technologies": [
