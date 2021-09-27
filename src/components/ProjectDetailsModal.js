@@ -12,6 +12,7 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var url2 = this.props.data.url2;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -79,6 +80,20 @@ class ProjectDetailsModal extends Component {
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
               {title}
+              {url2 ? (
+                <a
+                  href={url2}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="fab fa-github"
+                    style={{ marginLeft: "10px" }}
+                  ></i>
+                </a>
+                
+              ) : null}
               {url ? (
                 <a
                   href={url}
@@ -91,6 +106,7 @@ class ProjectDetailsModal extends Component {
                     style={{ marginLeft: "10px" }}
                   ></i>
                 </a>
+                
               ) : null}
             </h3>
             <p className="modal-description">{description}</p>

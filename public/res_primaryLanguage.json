@@ -19,6 +19,7 @@
           "images/portfolio/animal-shelter/p2.jpg"
         ],
         "url": "https://still-plains-06700.herokuapp.com/",
+        "url2": "https://github.com/funkcake/REX-Rescue_Express",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -43,6 +44,7 @@
           "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://funkcake.github.io/Weather-App/",
+        "url2": "https://github.com/funkcake/Weather-App",
         "technologies": [
           {
             "class": "devicon-css3-plain",
@@ -62,6 +64,7 @@
           "images/portfolio/adventure/p1.jpg"
         ],
         "url": "https://funkcake.github.io/Grocery-Calculator/",
+        "url2": "https://github.com/funkcake/Grocery-Calculator",
         "technologies": [
           {
             "class": "devicon-html5-plain",
