@@ -100,6 +100,19 @@
         ]
       },
       {
+        "company": "HEB",
+        "title": "Over Night Stocker",
+        "years": "",
+        "mainTech": [
+          "2020"
+        ],
+        "technologies": [
+          "55 cases per hour",
+          "Arrive early to help setup",
+          "Helped others to finnish"
+        ]
+      },
+      {
         "company": "Northwest Vista College",
         "title": "Associates Degree in Video Game",
         "years": "",
@@ -114,6 +127,19 @@
           "Unity",
           "Photo Shop",
           "Project Management"
+        ]
+      },
+      {
+        "company": "Tuttle Plumbing",
+        "title": "Apprentice",
+        "years": "",
+        "mainTech": [
+          "2010-2016"
+        ],
+        "technologies": [
+          "Worked on weekends if needed",
+          "Organization",
+          "Completed paperwork"
         ]
       }
     ]
