@@ -141,6 +141,21 @@
           "Organization",
           "Completed paperwork"
         ]
+      },
+      {
+        "company": "Started Learning Code",
+        "title": "Student",
+        "years": "",
+        "mainTech": [
+          "2009"
+        ],
+        "technologies": [
+          "Java",
+          "C#",
+          "C++",
+          "Problem Solving",
+          "Critical Thinking"
+        ]
       }
     ]
   }
